@@ -1,0 +1,1 @@
+{"img_format": "PNG", "img_res_x": 1920, "img_res_y": 1080, "cam_mat_intr": {"f_x": 1321.9671728531134, "f_y": 1321.9671728531134, "c_x": 959.5, "c_y": 539.5}, "is_stereo": true, "stereo_info": {"stereo_left_suffix": "_L", "stereo_right_suffix": "_R", "stereo_mode": "PARALLEL", "stereo_interocular_distance [m]": 4.0, "stereo_pivot": "LEFT"}}
